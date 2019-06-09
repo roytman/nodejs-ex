@@ -40,7 +40,8 @@
         ],
         "selector": {
           "name": "${NAME}"
-        }
+        },
+        "type": "LoadBalancer"
       }
     },
     {
